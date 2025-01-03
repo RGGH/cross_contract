@@ -34,7 +34,8 @@
         └──  release
 ```
 
-```❯ stellar contract deploy \
+```
+❯ stellar contract deploy \
     --wasm ../target/wasm32-unknown-unknown/release/contract_a.wasm \
     --source-account alice \
     --network testnet
