@@ -79,7 +79,7 @@ stellar contract invoke \
     --x 5 \
     --y 7
 ```
-
+### Successful output = 12
 ```
 ❯ stellar contract invoke \
     --id CABHUYMZYHPVBW3UD7LA7DOUXWDXPHKMR3STYU3KTW6FJDTJPPUJZCXX \
