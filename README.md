@@ -33,6 +33,7 @@
         ├──  CACHEDIR.TAG
         └──  release
 ```
+### Build contract 'A' then Contract 'B' in that order, and then deploy
 
 ```
 ❯ stellar contract deploy \
